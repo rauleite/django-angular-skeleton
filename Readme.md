@@ -9,19 +9,12 @@ A simple structure start.
 
 
 `git clone https://github.com/raul010/django-angular-skeleton.git`
-
 `cd django-angular-skeleton`
-
-`python manage.py syncdb` *(**yes**, to create superuser)*
-
+`python manage.py syncdb` (**yes**, to create superuser)
 `python manage.py runserver`
 
----
-
 - Go ahead: **http://localhost:8000/index/**
-
 - Click in **#/users** and should be shown your username.
-
 - *And just this!*
 
 ----
@@ -31,8 +24,6 @@ A simple structure start.
 - **app** (Django App)
 - **project** (Django Project)
 - **static** (Angular Files)
-
----
 
 *More complete:*
 
@@ -66,7 +57,6 @@ A simple structure start.
         └── user.html
 
 ```
----
 
 ### To use static servers like *Nginx*:
 
