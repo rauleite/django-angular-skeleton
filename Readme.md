@@ -42,7 +42,7 @@ A simple structure start.
 │   ├── settings.py
 │   ├── urls.py
 │   └── wsgi.py
-└── static (Angular Files)
+└── static
     ├── css
     ├── js
     │   ├── app
