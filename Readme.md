@@ -3,14 +3,16 @@ Project Django REST and AngularJS - Skeleton
 
 A simple structure start.
 
----
 
 ### Starting:
 
 
 `git clone https://github.com/raul010/django-angular-skeleton.git`
+
 `cd django-angular-skeleton`
+
 `python manage.py syncdb` (**yes**, to create superuser)
+
 `python manage.py runserver`
 
 - Go ahead: **http://localhost:8000/index/**
