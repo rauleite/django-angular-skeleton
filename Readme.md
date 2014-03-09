@@ -17,7 +17,10 @@ A simple structure start.
 
 - Go ahead: **http://localhost:8000/index/**
 - Click in **#/users** and should be shown your username.
-- *And just this!*
+
+(like this http://django-angular-skeleton.herokuapp.com/index/)
+
+*And just this!*
 
 ----
 ### File Structure:
